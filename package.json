@@ -1,12 +1,12 @@
 {
-  "name": "bitebank",
+  "name": "bytebank",
   "version": "1.0.0",
-  "description": "Projeto BiteBank",
+  "description": "Projeto do bytebank para seus clientes",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Matheus",
+  "author": "",
   "license": "ISC",
   "type": "module"
 }
